@@ -1,4 +1,4 @@
 # akash-demo
 This is my first Git Repository
 <br>
-Author: Akash Kumar
+Author: Akash Kumar Chandigarh
